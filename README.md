@@ -1,0 +1,2 @@
+# tinyrenderer
+Learning about openGL 
